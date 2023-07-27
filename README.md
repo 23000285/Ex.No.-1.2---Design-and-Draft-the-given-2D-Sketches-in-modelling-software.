@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![parthiban himavath venkatanathan at today](https://github.com/23000285/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138970859/4707e485-fbc7-4f0c-86ab-cd71dacc2738)
+ ![VENKAT 1 2_page-0001](https://github.com/23000285/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138970859/1cf937a9-20a1-44e2-a638-d15e42728c8a)
+
 
  
  ## RESULT
